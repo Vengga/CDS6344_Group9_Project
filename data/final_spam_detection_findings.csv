@@ -1,0 +1,7 @@
+Finding Area,Finding,Evidence
+Overall Spam-Risk Distribution,Most reviews were Low or Medium Risk,1094 Low Risk reviews and 435 Medium Risk reviews
+High-Risk Reviews,A small proportion of reviews were flagged as High Risk,86 High Risk reviews (5.33%)
+Duplicate Spam Risk,Duplicate-based spam risk was very low,0 exact duplicate reviews and 2 near-duplicate-risk reviews
+Highest App-Level Risk,facebook had the highest High Risk percentage,15.5% High Risk reviews
+Main High-Risk Contributors,Rating-text conflict and strict promotional/contact patterns were key contributors,Rating-text conflict appeared in 67.44% of High Risk reviews; strict external promo/contact signals appeared in 83.72%
+False Positive Control,Weak commercial app-review terms were separated from strong spam indicators,"Words such as free, download, offer, and contact were tracked separately but not scored as strong spam indicators alone"
